@@ -21,29 +21,34 @@
 
 🔍 **[Appsecco](https://appsecco.com)** — Application security consulting and training. From traditional pentesting to AI red teaming.
 
-## Current Projects
+## What I'm Building (Now)
 
-### Security Tools
-- 🕷️ **[SPA Hacker Agent](https://github.com/makash/spa-hacking-agent)** — Agent-driven SPA security scanner with browser automation and exploit validation
-- 🔒 **[Kloudle Scan](https://github.com/Kloudle/kloudle-scan)** — Cloud security posture scanning for modern cloud and agentic workflows
+### Agentic Security Stack
+- 🤖 **[indus-claw](https://github.com/makash/indus-claw)** — India-centric open-source AI agent platform
+- 🧩 **Getbot Secure OpenClaw** *(private)* — deploy and harden customer-contained agent fleets
+- 🕷️ **SPA Hacker Agent** *(private)* — product security worker for authenticated SPA attack surface mapping + testing
+- 🔐 **SSRF/AuthZ Security Suite** *(private)* — authz probing and SSRF-safe testing workflows (`definitive-guide-api-authz`)
+- 🔒 **[Kloudle Scan](https://github.com/Kloudle/kloudle-scan)** — cloud security posture workflows for modern teams
 - 🤖 **[Web Security Scanner AI Agent](https://github.com/appsecco/appsecco-web-security-scanner-ai-agent)** — AI-assisted web application security scanner
-- 🛡️ **[OpenClaw Secure Setup](https://github.com/makash/getbot-secure-openclaw)** — Security hardening and deployment for OpenClaw
 
-### AI Agent & Developer Tools
-- 📊 **[ccrank.dev](https://github.com/makash/claude-leaderboard-using-ccusage)** — Claude Code usage leaderboard and analytics
-- 💬 **[clawdwa](https://github.com/makash/clawdwa)** — Use Claude from WhatsApp groups
-- ✍️ **[Great Web Copy](https://github.com/makash/great-web-copy)** — Claude Code plugin for high-converting website copy
-- 🎯 **[PMF Plugin](https://github.com/makash/pmf-plugin)** — Product-market-fit validation toolkit
+### Agent + Developer Tools
+- 📊 **[ccrank](https://github.com/makash/ccrank)** — Claude Code usage leaderboard and analytics
+- 🌐 **[agent-browser](https://github.com/makash/agent-browser)** — stealth browser automation CLI for security/agent workflows
+- 🐙 **[oxydra](https://github.com/makash/oxydra)** — “many-heads” agent experimentation
+- 💬 **[clawdwa](https://github.com/makash/clawdwa)** — use Claude from WhatsApp groups
+- ✍️ **[great-web-copy](https://github.com/makash/great-web-copy)** — copywriting plugin for Claude Code
+- 🎯 **[pmf-plugin](https://github.com/makash/pmf-plugin)** — PMF discovery and validation toolkit
 
-### Education & Training
-- 🎓 **[Pentester to AI Red Teamer](https://github.com/appsecco/pentester-to-ai-red-teamer)** — Training platform for pentesters transitioning to AI red teaming
-- 📚 **[Learn Claude Code Workbook](https://github.com/makash/learn-claude-code)** — Hands-on guides for founders and engineers
-- 🧠 **[AI Security Knowledge Base](https://github.com/appsecco/appsecco-ai-security-kb)** — Structured methodologies for AI and appsec testing
-- ☁️ **[Cloud Security List](https://github.com/makash/cloud-security-list)** — Curated resource hub for cloud security engineers
+### Education, Research, and Community
+- 🎓 **[Pentester to AI Red Teamer](https://github.com/appsecco/pentester-to-ai-red-teamer)** — training platform for AI red teaming
+- 📚 **[Learn Claude Code Workbook](https://github.com/makash/learn-claude-code)** — practical workbooks for founders and engineers
+- 🧠 **[AI Security Knowledge Base](https://github.com/appsecco/appsecco-ai-security-kb)** — appsec and AI security methodology
+- ☁️ **[Cloud Security List](https://github.com/makash/cloud-security-list)** — curated cloud security resources
+- 🇮🇳 **[Learn Kannada Alphabet](https://github.com/makash/learn-kannada-alphabet-for-kids)** — offline-ready PWA for kids
+- 📞 **[Scam Calls India](https://github.com/makash/scam-calls-india)** — public awareness project
 
-### Community
-- 🇮🇳 **[Learn Kannada Alphabet](https://github.com/makash/learn-kannada-alphabet-for-kids)** — Offline PWA for early learners
-- 📞 **[Scam Calls India](https://github.com/makash/scam-calls-india)** — Public awareness project on scam call patterns
+### Websites
+- 🌍 **[akashm.dev](https://github.com/makash/akashm.dev)** — personal website and project hub
 
 ## Books
 
