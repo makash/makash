@@ -44,6 +44,7 @@
 - 📚 **[Learn Claude Code Workbook](https://github.com/makash/learn-claude-code)** — practical workbooks for founders and engineers
 - 🧠 **[AI Security Knowledge Base](https://github.com/appsecco/appsecco-ai-security-kb)** — appsec and AI security methodology
 - ☁️ **[Cloud Security List](https://github.com/makash/cloud-security-list)** — curated cloud security resources
+- 📖 **[Grandoldbooks-to-epub](https://github.com/makash/Grandoldbooks-to-epub)** — generate EPUB books from public-domain classics
 - 🇮🇳 **[Learn Kannada Alphabet](https://github.com/makash/learn-kannada-alphabet-for-kids)** — offline-ready PWA for kids
 - 📞 **[Scam Calls India](https://github.com/makash/scam-calls-india)** — public awareness project
 
