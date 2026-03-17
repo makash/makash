@@ -28,8 +28,8 @@
 - 🧩 **Getbot Secure OpenClaw** *(private)* — deploy and harden customer-contained agent fleets
 - 🕷️ **SPA Hacker Agent** *(private)* — product security worker for authenticated SPA attack surface mapping + testing
 - 🔐 **SSRF/AuthZ Security Suite** *(private)* — authz probing and SSRF-safe testing workflows (`definitive-guide-api-authz`)
-- 🔒 **[Kloudle Scan](https://github.com/Kloudle/kloudle-scan)** — cloud security posture workflows for modern teams
-- 🤖 **[Web Security Scanner AI Agent](https://github.com/appsecco/appsecco-web-security-scanner-ai-agent)** — AI-assisted web application security scanner
+- 🔒 **Kloudle Scan Core** *(private)* — cloud security scanning engine for agent workflows
+- 🤖 **Appsecco Web Security Scanner AI Agent** *(private)* — AI-assisted web app security scanner
 
 ### Agent + Developer Tools
 - 📊 **[ccrank](https://github.com/makash/ccrank)** — Claude Code usage leaderboard and analytics
@@ -39,10 +39,18 @@
 - ✍️ **[great-web-copy](https://github.com/makash/great-web-copy)** — copywriting plugin for Claude Code
 - 🎯 **[pmf-plugin](https://github.com/makash/pmf-plugin)** — PMF discovery and validation toolkit
 
+### Open-source from Appsecco + Kloudle
+- 🧪 **[vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab)** — deliberately vulnerable MCP servers for offensive/defensive training
+- ✅ **[pentesting-mcp-servers-checklist](https://github.com/appsecco/pentesting-mcp-servers-checklist)** — practical checklist for testing MCP server security
+- 🔌 **[mcp-client-and-proxy](https://github.com/appsecco/mcp-client-and-proxy)** — MCP client with proxying for deeper traffic analysis
+- 🦖 **[raptor](https://github.com/appsecco/raptor)** — Claude Code configured for adversarial security workflows
+- ☁️ **[aws-iam-large-account-security](https://github.com/Kloudle/aws-iam-large-account-security)** — IAM security insights at large-account scale
+- 🛡️ **[open-cvdb](https://github.com/Kloudle/open-cvdb)** — open cloud vulnerability and misconfiguration database
+
 ### Education, Research, and Community
-- 🎓 **[Pentester to AI Red Teamer](https://github.com/appsecco/pentester-to-ai-red-teamer)** — training platform for AI red teaming
+- 🎓 **Pentester to AI Red Teamer** *(private)* — training platform for AI red teaming
 - 📚 **[Learn Claude Code Workbook](https://github.com/makash/learn-claude-code)** — practical workbooks for founders and engineers
-- 🧠 **[AI Security Knowledge Base](https://github.com/appsecco/appsecco-ai-security-kb)** — appsec and AI security methodology
+- 🧠 **AI Security Knowledge Base** *(private)* — appsec and AI security methodology
 - ☁️ **[Cloud Security List](https://github.com/makash/cloud-security-list)** — curated cloud security resources
 - 📖 **[Grandoldbooks-to-epub](https://github.com/makash/Grandoldbooks-to-epub)** — generate EPUB books from public-domain classics
 - 🇮🇳 **[Learn Kannada Alphabet](https://github.com/makash/learn-kannada-alphabet-for-kids)** — offline-ready PWA for kids
