@@ -1,74 +1,67 @@
 # Hi, I'm Akash 👋
 
-📍 **India** | 🔐 **Security Builder** | 🚀 **Founder of [Kloudle](https://kloudle.com) & [Appsecco](https://appsecco.com)**
+📍 **India** · 🔐 **Security founder** · 🚀 **Founder of [Kloudle](https://kloudle.com) & [Appsecco](https://appsecco.com)**
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 
-> Building security tools and AI agents that people actually use. Two companies, 16+ active projects, shipping in the open.
+> I build security tooling for the agent era: AI agent security, supply-chain incident response, secure browser automation, and India-first open agent infrastructure.
+
+## What I'm building now
+
+- 🔥 **[scira](https://github.com/makash/scira)** — Supply Chain Incident Response Agent. A local-first Rust CLI for investigating PyPI and AI dependency compromises without trusting the compromised ecosystem.
+- 🛡️ **[agent-infra-security](https://github.com/makash/agent-infra-security)** — security skills and incident-response runbooks for AI coding agents across Claude Code, Codex, and Cursor.
+- 🌐 **[agent-browser](https://github.com/makash/agent-browser)** — stealth browser automation CLI for AI agents, with ongoing work around detection evasion and safer agent browsing.
+- 🇮🇳 **[indus-claw](https://github.com/makash/indus-claw)** — India-centric open-source AI agent platform built around Indian models and languages.
+- 📊 **[ccrank](https://github.com/makash/ccrank)** — leaderboard and analytics for Claude Code usage.
+- 💬 **[clawdwa](https://github.com/makash/clawdwa)** — Claude in WhatsApp groups, shipped as a Go binary.
+- 🌍 **[akashm.dev](https://akashm.dev)** — my website, writing, and project hub.
+
+On the company side, I also work on private agent security and application security systems through Kloudle and Appsecco.
+
+## Recently shipped
+
+- **[scira v0.1.0](https://github.com/makash/scira/releases/tag/v0.1.0)** — single-binary incident response for Python and AI dependency incidents
+- **[agent-browser v0.1.3](https://github.com/makash/agent-browser/releases/tag/v0.1.3)** — stealth and anti-detection improvements for agent browsing
+- **[clawdwa v0.1.0](https://github.com/makash/clawdwa/releases/tag/v0.1.0)** — WhatsApp Claude bot rewritten and distributed as binaries
+- **[Grandoldbooks-to-epub v1.0.0](https://github.com/makash/Grandoldbooks-to-epub/releases/tag/v1.0.0)** — EPUB generator for public-domain books
 
 ## Companies
 
-🛡️ **[Kloudle](https://kloudle.com)** — Cloud security for the agent era. Scanning, detection, and posture management for teams shipping with AI agents.
+🛡️ **[Kloudle](https://kloudle.com)** — cloud security for modern teams, from posture management to security workflows for AI-enabled engineering.
 
-🔍 **[Appsecco](https://appsecco.com)** — Application security consulting and training. From traditional pentesting to AI red teaming.
+🔍 **[Appsecco](https://appsecco.com)** — application security consulting and training, from classic web security to AI red teaming.
 
-## What I'm Building (Now)
+## Open source from Kloudle + Appsecco
 
-### Agentic Security Stack
-- 🤖 **[indus-claw](https://github.com/makash/indus-claw)** — India-centric open-source AI agent platform
-- 🧩 **Getbot Secure OpenClaw** *(private)* — deploy and harden customer-contained agent fleets
-- 🕷️ **SPA Hacker Agent** *(private)* — product security worker for authenticated SPA attack surface mapping + testing
-- 🔐 **SSRF/AuthZ Security Suite** *(private)* — authz probing and SSRF-safe testing workflows (`definitive-guide-api-authz`)
-- 🔒 **Kloudle Scan Core** *(private)* — cloud security scanning engine for agent workflows
-- 🤖 **Appsecco Web Security Scanner AI Agent** *(private)* — AI-assisted web app security scanner
-
-### Agent + Developer Tools
-- 📊 **[ccrank](https://github.com/makash/ccrank)** — Claude Code usage leaderboard and analytics
-- 🌐 **[agent-browser](https://github.com/makash/agent-browser)** — stealth browser automation CLI for security/agent workflows
-- 🐙 **[oxydra](https://github.com/makash/oxydra)** — “many-heads” agent experimentation
-- 💬 **[clawdwa](https://github.com/makash/clawdwa)** — use Claude from WhatsApp groups
-- ✍️ **[great-web-copy](https://github.com/makash/great-web-copy)** — copywriting plugin for Claude Code
-- 🎯 **[pmf-plugin](https://github.com/makash/pmf-plugin)** — PMF discovery and validation toolkit
-
-### Open-source from Appsecco + Kloudle
-- 🧪 **[vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab)** — deliberately vulnerable MCP servers for offensive/defensive training
+- 🧪 **[vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab)** — deliberately vulnerable MCP servers for offensive and defensive training
 - ✅ **[pentesting-mcp-servers-checklist](https://github.com/appsecco/pentesting-mcp-servers-checklist)** — practical checklist for testing MCP server security
 - 🔌 **[mcp-client-and-proxy](https://github.com/appsecco/mcp-client-and-proxy)** — MCP client with proxying for deeper traffic analysis
 - 🦖 **[raptor](https://github.com/appsecco/raptor)** — Claude Code configured for adversarial security workflows
 - ☁️ **[aws-iam-large-account-security](https://github.com/Kloudle/aws-iam-large-account-security)** — IAM security insights at large-account scale
 - 🛡️ **[open-cvdb](https://github.com/Kloudle/open-cvdb)** — open cloud vulnerability and misconfiguration database
 
-### Education, Research, and Community
-- 🎓 **Pentester to AI Red Teamer** *(private)* — training platform for AI red teaming
-- 📚 **[Learn Claude Code Workbook](https://github.com/makash/learn-claude-code)** — practical workbooks for founders and engineers
-- 🧠 **AI Security Knowledge Base** *(private)* — appsec and AI security methodology
-- ☁️ **[Cloud Security List](https://github.com/makash/cloud-security-list)** — curated cloud security resources
+## Writing
+
+### Books
+- 📕 **[Burp Suite Essentials](https://www.amazon.com/Burp-Suite-Essentials-Akash-Mahajan/dp/1783550112)** — practical Burp Suite for web pentesting
+- 📗 **[Security Automation with Ansible 2](https://www.amazon.com/Security-Automation-Ansible-Leverage-application/dp/1788394518)** — security automation for hardening, scanning, and forensics
+
+### Newsletters
+- 🔥 **[Cloud Security Mutiny](https://securitymutiny.substack.com/)** — cloud security strategies for small teams
+- 🤖 **[Agentic Security Brief](https://securitymutiny.substack.com/)** — what breaks, what matters, and what to do about AI agent security
+
+## Selected side projects
+
 - 📖 **[Grandoldbooks-to-epub](https://github.com/makash/Grandoldbooks-to-epub)** — generate EPUB books from public-domain classics
-- 🇮🇳 **[Learn Kannada Alphabet](https://github.com/makash/learn-kannada-alphabet-for-kids)** — offline-ready PWA for kids
+- 🇮🇳 **[Learn Kannada Alphabet](https://github.com/makash/learn-kannada-alphabet-for-kids)** — offline-ready Kannada alphabet app for kids
 - 📞 **[Scam Calls India](https://github.com/makash/scam-calls-india)** — public awareness project
-
-### Websites
-- 🌍 **[akashm.dev](https://github.com/makash/akashm.dev)** — personal website and project hub
-
-## Books
-
-📕 **[Burp Suite Essentials](https://www.amazon.com/Burp-Suite-Essentials-Akash-Mahajan/dp/1783550112)** (Packt, 2014) — The practical guide to Burp Suite for web pentesting. Recommended by PortSwigger.
-
-📗 **[Security Automation with Ansible 2](https://www.amazon.com/Security-Automation-Ansible-Leverage-application/dp/1788394518)** (Packt, 2017) — Security automation for patching, hardening, scanning, and forensics. Co-authored with Madhu Akula.
-
-## Newsletters
-
-- 🔥 **[Cloud Security Mutiny](https://securitymutiny.substack.com/)** — No-BS cloud security strategies for small teams
-- 🤖 **[Agentic Security Brief](https://securitymutiny.substack.com/)** — AI agent security — what breaks, what matters
 
 ## GitHub Activity
 
@@ -86,5 +79,4 @@
 
 ---
 
-> "Ship fast, ship in the open." — I build tools to solve real security problems, then share them with the world.
-
+> I like shipping tools that solve real security problems, then refining them in the open.
